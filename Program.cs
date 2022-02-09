@@ -10,8 +10,10 @@ namespace Próba2
     {
         static void Main(string[] args)
         {
-
-
+            Console.WriteLine("Üdvözöllek");
+            Console.WriteLine("Dóra vagyok");
+            Console.WriteLine("Szép az idő");
+            
 
             Console.ReadKey();
         }
