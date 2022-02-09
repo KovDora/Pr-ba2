@@ -14,7 +14,7 @@ namespace Próba2
             Console.WriteLine("Dóra vagyok");
             Console.WriteLine("Szép az idő");
             Console.WriteLine("Szeles idő van");
-            Console.WriteLine("Süt a nap");
+            Console.WriteLine("Éjszaka van");
             Console.ReadKey();
         }
     }
