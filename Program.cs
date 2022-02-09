@@ -13,7 +13,7 @@ namespace Próba2
             Console.WriteLine("Üdvözöllek");
             Console.WriteLine("Dóra vagyok");
             Console.WriteLine("Szép az idő");
-            
+            Console.WriteLine("Szeles idő van");
 
             Console.ReadKey();
         }
